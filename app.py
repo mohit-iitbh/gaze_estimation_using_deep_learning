@@ -9,5 +9,3 @@ def start_capture():
 if st.button("Start Capturing"):
     st.write(start_capture())
 
-
-st.write(run_with_webcam.main)
